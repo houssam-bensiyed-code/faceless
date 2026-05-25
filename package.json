@@ -1,5 +1,5 @@
 {
-  "name": "ideas-processor",
+  "name": "faceless",
   "version": "1.0.0",
   "description": "AI-powered content pipeline using PWT (Providers, Workers, Transformers) over Hexagonal architecture",
   "main": "dist/index.js",
