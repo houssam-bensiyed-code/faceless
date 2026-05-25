@@ -1,0 +1,29 @@
+# Default Writing Pattern Template
+# ================================
+#
+# This template defines the structure and style guide used by the
+# ScriptWriterWorker when generating scripts from ideas via LLM.
+#
+# Variables available for prompt interpolation:
+#   {title}        — The idea title
+#   {ideaContent}  — The detailed idea description
+#
+# Customize the sections below to control the output format,
+# tone, length, and structure of generated scripts.
+
+## Structure
+- Introduction / Hook
+- Main Body / Development
+- Conclusion / Call to Action
+
+## Tone
+- Conversational yet informative
+- Engaging and accessible
+
+## Length
+- Target: 800–1200 words
+
+## Special Instructions
+- Include specific examples where relevant
+- Use transitions between sections
+- End with a memorable closing statement
