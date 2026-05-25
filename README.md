@@ -1,4 +1,4 @@
-# Ideas Processor
+# Faceless
 
 AI-powered content pipeline using **PWT (Providers, Workers, Transformers)** architecture over **Hexagonal (Ports & Adapters)**.
 
